@@ -1,0 +1,9 @@
+{
+  "license": "UNLICENSED",
+  "repository": "https://github.com/michalc/blog",
+  "dependencies": {
+    "concurrent-transform": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.0.2"
+  }
+}
